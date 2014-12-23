@@ -572,7 +572,7 @@ EndFunc
 ;      					$array[3]   = Seconds left of charge, estimate(4294967295=unknown)
 ;						Sets @Error on error
 ;	Author.........: Scootie, PsaltyDS
-	Reference......: http://www.autoitscript.com/forum/topic/10993-batteryquery-udf/#entry531988
+;	Reference......: http://www.autoitscript.com/forum/topic/10993-batteryquery-udf/#entry531988
 ;======================================================
 Func _SystemPowerStatus()
     Local $SystemPower, $ret, $array[4]
